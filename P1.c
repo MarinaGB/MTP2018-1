@@ -1,7 +1,5 @@
 //Marina Gautério Bizzotto 11721EAU0014
 //Avaliação continuada P1
-# MTP2018-1
-
 #include <stdio.h>
 
 int main ()
