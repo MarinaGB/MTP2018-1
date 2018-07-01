@@ -1,5 +1,5 @@
-//Marina Gautério Bizzotto 11721EAU0014
-//Avaliação continuada P1
+//Marina Gautério Bizzotto
+//11721EAU014
 #include <stdio.h>
 
 int main ()
